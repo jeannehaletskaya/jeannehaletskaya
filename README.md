@@ -7,10 +7,15 @@
 <h3>Skills</h3>
 
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/html5.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/css3.svg">
+
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/javascript.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/typescript.svg">
+
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/c#.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/SASS-hotpink.svg">
+
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/angular.js.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/react.svg">
+
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/node.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/vuejs-#35495e.svg">
+
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/bootstrap.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/jquery.svg">
 
 
