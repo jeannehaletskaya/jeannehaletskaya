@@ -10,11 +10,11 @@
 
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/javascript.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/typescript.svg">
 
-<img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/c#.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/SASS-hotpink.svg">
+<img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/csharp.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/SASS-hotpink.svg">
 
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/angular.js.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/react.svg">
 
-<img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/node.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/vuejs-#35495e.svg">
+<img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/node.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/vuejs.svg">
 
 <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/bootstrap.svg"> <img src="https://github.com/jeannehaletskaya/jeannehaletskaya/raw/main/skills/jquery.svg">
 
